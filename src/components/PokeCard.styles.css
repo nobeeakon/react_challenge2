@@ -1,0 +1,10 @@
+.pokeCard {
+  margin: 5px;
+  background-color: tomato;
+  border-radius: 5px;
+}
+
+.pokemonName {
+  color: white;
+  text-transform: capitalize;
+}
